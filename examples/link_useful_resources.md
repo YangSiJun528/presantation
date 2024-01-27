@@ -1,0 +1,9 @@
+- [MARP - 마크다운(.md) 문서로 PPT / PDF를 만들어 보자](https://garve32.tistory.com/69)
+    - 한국어 예제 중에는 구체적인 편
+- [Marp Core built-in themes](https://github.com/marp-team/marp-core/blob/main/themes/README.md)
+    - Marp Core 테마들 설명
+- [Unleash Your Creativity with Marp Presentation Customization](https://chris-ayers.com/2023/03/31/customizing-marp)
+    - 추천, 문법이랑 사용법 잘 나옴
+- [Gist - marp-example](https://gist.github.com/friendbear/510f2be3930bcf9f49467cf71f7ef215)
+    - 수식 예시 있음
+    - 여러가지를 짦게 다룸
